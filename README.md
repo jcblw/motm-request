@@ -1,6 +1,6 @@
 ## Module of the Month
 
-Every month I hope to cover a new module in (http://npmjs.org)[npm].
+Every month I hope to cover a new module in [npm](http://npmjs.org).
 
 This months was `request`, a module to do external request to server.
 
@@ -38,3 +38,4 @@ node index stream
 ```
 
 Both of these commands should be ran from the root of the demo
+
