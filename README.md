@@ -22,3 +22,19 @@ to get this key out of this file install `dotenv` you can do this by just instal
 ```
 npm install
 ```
+
+## Running Demos
+
+There are two diffent demos one for normal request and streaming to run the normal request
+
+```
+node index
+```
+
+To run the streaming demo
+
+```
+node index stream
+```
+
+Both of these commands should be ran from the root of the demo
