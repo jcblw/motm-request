@@ -1,0 +1,21 @@
+{
+  "name": "request-demo",
+  "version": "0.0.0",
+  "description": "demo on using request module for riversidejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "request",
+    "demo"
+  ],
+  "author": "jacob lowe < http://jacoblowe.me >",
+  "license": "MIT",
+  "devDependencies": {
+    "request": "~2.27.0"
+  },
+  "dependencies": {
+    "dotenv": "0.0.5"
+  }
+}
