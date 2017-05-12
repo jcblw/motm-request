@@ -1,5 +1,7 @@
 ## Module of the Month
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/motm-request.svg)](https://greenkeeper.io/)
+
 Every month I hope to cover a new module in [npm](http://npmjs.org).
 
 This months was `request`, a module to do external request to server.
