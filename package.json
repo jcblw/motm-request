@@ -13,9 +13,9 @@
   "author": "jacob lowe < http://jacoblowe.me >",
   "license": "MIT",
   "devDependencies": {
-    "request": "~2.27.0"
+    "request": "~2.81.0"
   },
   "dependencies": {
-    "dotenv": "0.0.5"
+    "dotenv": "4.0.0"
   }
 }
